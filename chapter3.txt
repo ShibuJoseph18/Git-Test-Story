@@ -1,1 +1,1 @@
-My expertise is on Fullstack Web development using MERN stack.
+My expertise is on Fullstack Web development using MERN stack and Problem solving in Python.
